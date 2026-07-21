@@ -1,0 +1,6 @@
+{
+  "name": "Extrator de Leads Google - WhatsApp e Instagram",
+  "description": "Extraia perfis do Google Meu Negócio com links diretos para conversa no WhatsApp, perfil no Instagram e página do Google Maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
